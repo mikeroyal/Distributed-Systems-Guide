@@ -72,13 +72,13 @@
 
 [Distributed System](https://www.splunk.com/en_us/data-insider/what-are-distributed-systems.html) is a computing environment in which various components are spread across multiple computers (or other computing devices) on a network. These devices split up the work, coordinating their efforts to complete the job more efficiently than if a single device had been responsible for the task. There are four different basic architecture models:
 
-    1. [Client-server](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) is a system where clients contact the server for data, then format it and display it to the end-user. The end-user can also make a change from the client-side and commit it back to the server to make it permanent.
+  1. [Client-server](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) is a system where clients contact the server for data, then format it and display it to the end-user. The end-user can also make a change from the client-side and commit it back to the server to make it permanent.
 
-    2. [Three-tier](https://www.ibm.com/cloud/learn/three-tier-architecture) is a software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, or user interface; the application tier, where data is processed; and the data tier, where the data associated with the application is stored and managed.
+  2. [Three-tier](https://www.ibm.com/cloud/learn/three-tier-architecture) is a software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, or user interface; the application tier, where data is processed; and the data tier, where the data associated with the application is stored and managed.
 
-    3. [n-tier](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) is a system that does separate processing into discrete tiers that are distributed between the client and the server. When you develop applications that access data, you should have a clear separation between the various tiers that make up the application.
+  3. [n-tier](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) is a system that does separate processing into discrete tiers that are distributed between the client and the server. When you develop applications that access data, you should have a clear separation between the various tiers that make up the application.
 
-    4. [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) is a system where are no additional machines used to provide services or manage resources. Responsibilities are uniformly distributed among machines in the system, known as peers, which can serve as either client or server.
+  4. [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) is a system where are no additional machines used to provide services or manage resources. Responsibilities are uniformly distributed among machines in the system, known as peers, which can serve as either client or server.
 
 [Top Distributed Systems Courses Online | Coursera](https://www.coursera.org/courses?query=distributed%20systems)
 
