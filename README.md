@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/134823745-c2ca77ff-73b4-433f-b33f-99a6813bb429.png">
+ <img src="https://user-images.githubusercontent.com/45159366/134824550-8848a81b-432a-4e94-bf4f-8420e3b249ce.png">
   <br />
   Distributed Systems Guide
 </h1>
