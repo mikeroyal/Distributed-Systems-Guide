@@ -1,6 +1,5 @@
-
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134823745-c2ca77ff-73b4-433f-b33f-99a6813bb429.png">
   <br />
   Distributed Systems Guide
 </h1>
@@ -10,23 +9,16 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134823757-06765719-7d4c-4123-ac5d-4eb5866fb2dc.png">
   <br />
 </p>
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134823766-c1680f2b-f482-4f50-b549-35803642c24d.png">
   <br />
 </p>
 
-**Architecture of a Distributed Database System. Source:[ResearchGate](https://www.researchgate.net/figure/Architecture-of-a-Distributed-Database-System_fig1_330485258)**
-
-<p align="center">
- <img src="">
-  <br />
-</p>
-
-**Difference between Distributed Computing and Parallel Computing.**
+**Architecture of a Distributed Database System. Source: [ResearchGate](https://www.researchgate.net/figure/Architecture-of-a-Distributed-Database-System_fig1_330485258)**
 
 
 # Table of Contents
