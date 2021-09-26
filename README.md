@@ -25,7 +25,7 @@
 
 1. [Distributed Systems Learning Resources](https://github.com/mikeroyal/Distributed-Systems-Guide#Distributed-Systems-learning-resources)
 
-2. [Distributed Systems Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Distributed-Systems-Guide#Distributed-Systems-tools-libraries-and-frameworks)
+2. [Distributed Systems Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Distributed-Systems-Guide#Distributed-Systems-tools-libraries-and-frameworks)
 
 3. [Apache Spark Development](https://github.com/mikeroyal/Distributed-Systems-Guide#apache-spark-development)
 
@@ -167,7 +167,7 @@
 [Back to the Top](https://github.com/mikeroyal/Distributed-Systems-Guide#table-of-contents)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134825193-e5e7a8b2-3f3c-4992-951a-34217d5111c5.png">
   <br />
 </p>
 
